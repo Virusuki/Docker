@@ -1,2 +1,7 @@
-# Docker-images
-웹앱 이미지 빌드용 Dockerfile
+# 도커란?
+- 도커는 리눅스 컨테이너를 기반으로 특정 서비스를 패키징하고 실행, 운영 및 배포하는데 유용한 오픈소스 플랫폼이다.
+- 커는 2019/2020 Stack Overflow의 Developer Survey of 90,000 Developers에서 진행한 설문조사에서 Most Wanted 부문에서 1위를 차지했습니다.
+   (관련 기술은 Kubernetes 경우 4위를 차지했네요.) 이것은 모든 분야에 걸쳐 도커의 쓰임새가 널리 확장되고 있다는 의미와 함께 경쟁력 있는 Developer/Architect로
+   성장하는데 있어서 기술습득 및 학습할 가치가 있다는 메
+
+[도커 설문조사 이미지]
